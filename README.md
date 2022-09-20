@@ -19,4 +19,4 @@ Teams / Email - 200543@vutbr.cz
 
 Office:
 
-A01 0642
+BUT FME - A01 0642
