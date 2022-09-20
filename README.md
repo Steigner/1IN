@@ -16,3 +16,7 @@ Method of classification of students for the course 1IN:
 Contacts:
 
 Teams / Email - 200543@vutbr.cz
+
+Office:
+
+A01 0642
