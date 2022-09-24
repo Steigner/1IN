@@ -1,4 +1,4 @@
-%% - vytvoreni sekce(lze spoustet v Editor -> Run Section
+%% - vytvoreni sekce (lze spoustet v Editor -> Run Section)
 %
 % ! UPOZORNENI !
 % Pri pouzivani sekci (%%) si davejte pozor na prepisovani promenych ve
