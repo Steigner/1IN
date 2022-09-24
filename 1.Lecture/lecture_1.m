@@ -152,9 +152,9 @@ x = -1:0.1:1;
 
 % prikaz x' = provede prehozeni z radku do sloupce: 1x21 -> 21x1
 % Bud se provede invertovani sloupce za radek
-% u vektoru x ci pak u vykreslovani vektoru 
+% u vektoru x nebo pak u vykreslovani vektoru 
 % vysupnich funkci y u prikazu plot. Pokud
-% nepovedete >> Error using plot Vectors must be the same length.
+% nepovedete ani jedno >> Error using plot Vectors must be the same length.
 % 
 % Jak by to vypadalo?
 % % x = x'; - zakomentete tento radek
