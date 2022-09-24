@@ -11,8 +11,12 @@ Method of classification of students for the course 1IN:
 
 * 6-eTests, each for a maximum of 10 points.
 * BigTest, max 40 points.
-* Classification: ETCS
+* Classification: ECTS
 
 Contacts:
 
 Teams / Email - 200543@vutbr.cz
+
+Office:
+
+BUT FME - A01 0642
