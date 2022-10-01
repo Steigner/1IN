@@ -1,4 +1,4 @@
-%% Artim. operatory
+%% Aritmeticke operatory
 
 % aritmetické operace vracejí numerickou hodnotu
 % smaz command window
