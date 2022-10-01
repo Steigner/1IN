@@ -2,6 +2,10 @@
 
 ***
 
+### ! Notes !
+* Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
+* Pokud někdo nevyhnutelně bude jeden týden chybět při psaní e-Testů, je možno si ho nahradit ve 13. týdnu
+
 Semestral schedule:
 
 * Tuesday, 8:00–9:50, 1A/5
