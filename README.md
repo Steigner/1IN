@@ -3,6 +3,8 @@
 ***
 
 ### ! Notes !
+* Ve 4. týdnu se píše přípravný test - ten kdo se připraví a bude mít plný počet bodů, bude odměněn!
+
 * Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
 * Pokud někdo nevyhnutelně bude jeden týden chybět při psaní e-Testů, je možno si ho nahradit ve 13. týdnu
 
