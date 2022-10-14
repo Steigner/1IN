@@ -7,7 +7,7 @@
 * Přednost operátorů ... co má prioritní přednost při vykonání příkazů, viz skript cviceni 3 a prednaska.
 * Matice vs vektory, přístup k prvkům z pole a matice
 * **NeČtete** pořádně zadání! 
-* Chyba při mazání proměných z workspace, správně: clear x y vs špatně clear xy
+* Chyba při mazání proměných z workspace, správně: clear x y vs špatně: clear xy
 * Pozor na proměnné a operace se němi, správně: x * y vs špatně: xy 
 
 ### ! Nástěnka !
