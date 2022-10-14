@@ -2,9 +2,17 @@
 
 ***
 
-### ! Notes !
-* Ve 4. týdnu se píše přípravný test - ten kdo se připraví a bude mít plný počet bodů, bude odměněn!
+### Opakované chyby v testu
 
+* Přednost operátorů ... co má prioritní přednost při vykonání příkazů (závorky, násobení, dělení, etc.)
+* Matice vs vektory, přístup k prvkům z pole a matice
+* NeČtete pořádně zadání! 
+* Chyba při mazání proměných z workspace, správně: clear x y vs špatně clear xy
+* Pozor na proměnné a operace se němi, správně: x * y vs špatně: xy 
+
+### ! Nástěnka !
+
+* Připomínám že v 5. týdnu bude již první ostrý test, ze kterého už budete sbírat body. Připravte se!!
 * Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
 * Pokud někdo nevyhnutelně bude jeden týden chybět při psaní e-Testů, je možno si ho nahradit ve 13. týdnu
 
