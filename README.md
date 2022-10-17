@@ -1,6 +1,4 @@
-### :computer: 1IN Course
-
-***
+## :computer: 1IN Course
 
 ### :heavy_exclamation_mark: Opakované chyby v testu
 
