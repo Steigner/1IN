@@ -1,8 +1,8 @@
-## Introduction to 1IN course
+### :computer: 1IN Course
 
 ***
 
-### Opakované chyby v testu
+### :heavy_exclamation_mark: Opakované chyby v testu
 
 * Přednost operátorů ... co má prioritní přednost při vykonání příkazů, viz skript cviceni 3 a prednaska.
 * Matice vs vektory, přístup k prvkům z pole a matice
@@ -10,13 +10,15 @@
 * Chyba při mazání proměných z workspace, správně: clear x y vs špatně: clear xy
 * Pozor na proměnné a operace se němi, správně: x * y vs špatně: xy 
 
-### ! Nástěnka !
+### :newspaper: Nástěnka 
 
 * Připomínám že v 5. týdnu bude již první ostrý test, ze kterého už budete sbírat body. Připravte se!!
 * Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
 * Pokud někdo nevyhnutelně bude jeden týden chybět při psaní e-Testů, je možno si ho nahradit ve 13. týdnu
 
 <p align="center"><img src="https://i.imgflip.com/6wwd1x.jpg"/></center></p>
+
+### :information_source: Info
 
 Semestral schedule:
 
