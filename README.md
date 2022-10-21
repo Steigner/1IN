@@ -19,6 +19,10 @@
   if x ~= 0
       disp('Nonzero value')
   end
+  
+  if ~x
+      disp('Nonzero value')
+  end
   ```
   
 * Pozor poté i na logické výpisy do command window >> logical 1 or logical 0 
