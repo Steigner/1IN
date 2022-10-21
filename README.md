@@ -5,7 +5,7 @@
 * Přednost operátorů ... co má prioritní přednost při vykonání příkazů, viz skript cviceni 3 a prednaska.
 * Matice vs vektory, přístup k prvkům z pole a matice
 * **NeČtete** pořádně zadání! 
-* Chyba při mazání proměných z workspace, správně: clear x y vs špatně: clear xy
+* Chyba při mazání proměných z workspace pokud máme proměnou x a y, správně: clear x y vs špatně: clear xy - smaže proměnou xy
 * Pozor na proměnné a operace se němi, správně: x * y vs špatně: xy 
 
 * V testu se objevují otázky na if else, to je co vám píše oficiální dokumentace v Matlab Help Center:
