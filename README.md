@@ -8,6 +8,21 @@
 * Chyba při mazání proměných z workspace, správně: clear x y vs špatně: clear xy
 * Pozor na proměnné a operace se němi, správně: x * y vs špatně: xy 
 
+* V testu se objevují otázky na if else, to je co vám píše oficiální dokumentace v Matlab Help Center:
+
+  **Test Values for Inequality** - "Determine if a value is nonzero. Use the ~= operator to test for inequality."
+
+  Help Centrum: https://www.mathworks.com/help/matlab/ref/if.html
+
+  ```matlab
+  x = 10;
+  if x ~= 0
+      disp('Nonzero value')
+  end
+  ```
+  
+* Pozor poté i na logické výpisy do command window >> logical 1 or logical 0 
+
 ### :newspaper: Nástěnka 
 
 * Připomínám že v 5. týdnu bude již první ostrý test, ze kterého už budete sbírat body. Připravte se!!
