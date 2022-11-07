@@ -8,6 +8,12 @@
 <img height="300px" src="https://it-slovnik.cz/img/pojmy/xor-pravdivostni-tabulka.png">
 </p>
 
+* V testu se může objevit i otázka na operátor NOR -> Tabulka:
+
+<p align="center">
+<img height="300px" src="https://it-slovnik.cz/img/pojmy/hradlo-nor-pravdivostni-tabulka.png">
+</p>
+
 * Přednost operátorů ... co má prioritní přednost při vykonání příkazů, viz skript cviceni 3 a prednaska.
 * Matice vs vektory, přístup k prvkům z pole a matice
 * **NeČtete** pořádně zadání! 
