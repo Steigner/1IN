@@ -2,6 +2,12 @@
 
 ### :heavy_exclamation_mark: Opakované chyby v testu
 
+* V testu se objevuje i otázka na operátor XOR -> Tabulka:
+
+<p align="center">
+<img height="300px" src="https://it-slovnik.cz/img/pojmy/xor-pravdivostni-tabulka.png">
+</p>
+
 * Přednost operátorů ... co má prioritní přednost při vykonání příkazů, viz skript cviceni 3 a prednaska.
 * Matice vs vektory, přístup k prvkům z pole a matice
 * **NeČtete** pořádně zadání! 
@@ -37,7 +43,7 @@
 * Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
 * Pokud někdo nevyhnutelně bude jeden týden chybět při psaní e-Testů, je možno si ho nahradit ve 13. týdnu
 
-<p align="center"><img src="https://i.imgflip.com/6wwd1x.jpg"/></center></p>
+<p align="center"><img src="https://i.imgflip.com/6wwd1x.jpg"/></p>
 
 ### :information_source: Info
 
