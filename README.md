@@ -8,7 +8,7 @@
 <img height="300px" src="https://it-slovnik.cz/img/pojmy/xor-pravdivostni-tabulka.png">
 </p>
 
-* V testu se může objevit i otázka na operátor NOR -> Tabulka:
+* V testu se může objevit i otázka na operátor AND / OR / NAND / NOR: NOR -> Tabulka:
 
 <p align="center">
 <img height="300px" src="https://it-slovnik.cz/img/pojmy/hradlo-nor-pravdivostni-tabulka.png">
@@ -68,6 +68,4 @@ Contacts:
 
 Teams / Email - 200543@vutbr.cz
 
-Office:
-
-BUT FME - A01 0642
+Office: BUT FME - A01 0642
