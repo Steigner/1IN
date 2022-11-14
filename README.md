@@ -45,6 +45,8 @@
 
 ### :newspaper: Nástěnka 
 
+:heavy_exclamation_mark: Skupina od 8:00 - 10:00 bude mít cvičení s paní doktorkou!! 
+
 * Připomínám že v 5. týdnu bude již první ostrý test, ze kterého už budete sbírat body. Připravte se!!
 * Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
 * Pokud někdo nevyhnutelně bude jeden týden chybět při psaní e-Testů, je možno si ho nahradit ve 13. týdnu
