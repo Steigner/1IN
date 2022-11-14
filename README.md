@@ -1,5 +1,7 @@
 ## :computer: 1IN Course
 
+## :heavy_exclamation_mark: :heavy_exclamation_mark: Skupina od 8:00 - 10:00 bude mít cvičení s paní doktorkou!! 
+
 ### :heavy_exclamation_mark: Opakované chyby v testu
 
 * V testu se objevuje i otázka na operátor XOR -> Tabulka:
@@ -44,8 +46,6 @@
 * Pozor poté i na logické výpisy do command window >> logical 1 or logical 0 
 
 ### :newspaper: Nástěnka 
-
-:heavy_exclamation_mark: Skupina od 8:00 - 10:00 bude mít cvičení s paní doktorkou!! 
 
 * Připomínám že v 5. týdnu bude již první ostrý test, ze kterého už budete sbírat body. Připravte se!!
 * Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
