@@ -1,7 +1,5 @@
 ## :computer: 1IN Course
 
-## :heavy_exclamation_mark: :heavy_exclamation_mark: Skupina od 8:00 - 10:00 bude mít cvičení s paní doktorkou!! 
-
 ### :heavy_exclamation_mark: Opakované chyby v testu
 
 * V testu se objevuje i otázka na operátor XOR -> Tabulka:
