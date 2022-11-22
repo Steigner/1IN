@@ -22,7 +22,6 @@ clc;
 
 r = diagram
 
-
 %% function
 clear;
 clc;
@@ -41,6 +40,23 @@ z = rand(1,10);
 % r = fc1(q,x,y)
 r = fc2(y,z,q)
 
+%% zadani 2
+n=input('zadej cislo n: ');
+k=1; zbytek = n;
+p(k)=n;
+for i=2:sqrt(zbytek)
+    while mod(zbytek,i)==0
+        zbytek = zbytek / i;
+        p(k)=i; 
+        k=k+1;
+    end
+end
+if zbytek>1
+    p(k)=zbytek;
+end
+p
+
+%% zadani 1
 function [result] = fc2(y,z,q)
     N = length(y);
     M = length(q);
@@ -69,6 +85,7 @@ function [result] = fc1(q,x,y)
     result = s - p;
 end
 
+%% funkce z hodiny
 function [mean, stdev] = statistics(x)
     n = length(x);
     mean = sum(x) / n;
