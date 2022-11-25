@@ -47,6 +47,7 @@
 
 ### :newspaper: Nástěnka 
 
+* Kdyby měl někdo zájem a rád by si rozšířil základní skills i do programovacího jazyka Python tak - [https://krython.vnovak.cz/](https://krython.vnovak.cz/)
 * Připomínám že v 5. týdnu bude již první ostrý test, ze kterého už budete sbírat body. Připravte se!!
 * Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
 * Pokud někdo nevyhnutelně bude jeden týden chybět při psaní e-Testů, je možno si ho nahradit ve 13. týdnu
@@ -68,4 +69,11 @@ Contacts:
 
 Teams / Email - 200543@vutbr.cz
 
-Office: BUT FME - A01 0642
+Office: A01 0642
+
+:red_circle: Brno University of Technology,
+
+:large_blue_circle: Faculty of Mechanical Engineering,
+
+:computer: Institute of Automation and Computer Science
+
