@@ -2,7 +2,7 @@
 
 ### :heavy_exclamation_mark: Big Test
 
-* V rámci big testu si zopakujte funkce. První dva příklady budou na naprogramování funkce, to znamená, že odevzdávat se bude m-funkce v souboru. Připomínám, že tento formát vyžaduje to, aby Vaše funkce měla stejné jméno jako název souboru a neobsahuje před funkcí žádné příkazy. Vyzkoušejte si v Matlabu.
+* V rámci big testu si zopakujte funkce. První dva příklady budou na naprogramování funkce, to znamená, že odevzdávat se bude m-funkce v souboru. Připomínám, že tento formát vyžaduje to, aby Vaše funkce měla stejné jméno jako název souboru a neobsahuje před funkcí žádné příkazy. Vyzkoušejte si v Matlabu. Pravým kliknete na Current Folder -> New -> Function
 
 * Třetí příklad nebude vyžadovat operace s funkcemi.
 
