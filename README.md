@@ -1,56 +1,25 @@
 ## :computer: 1IN Course
 
-### :heavy_exclamation_mark: Matlab Onramp do konce týdne!
+### :heavy_exclamation_mark: Big Test
 
-### :heavy_exclamation_mark: Opakované chyby v testu
+* V rámci big testu si zopakujte funkce. První dva příklady budou na naprogramování funkce, to znamená, že odevzdávat se bude m-funkce v souboru. Připomínám, že tento formát vyžaduje to, aby Vaše funkce měla stejné jméno jako název souboru a neobsahuje před funkcí žádné příkazy. Vyzkoušejte si v Matlabu.
 
-* V testu se objevuje i otázka na operátor XOR -> Tabulka:
+* Třetí příklad nebude vyžadovat operace s funkcemi.
 
-<p align="center">
-<img height="300px" src="https://it-slovnik.cz/img/pojmy/xor-pravdivostni-tabulka.png">
-</p>
+* Procvičte se na test z rozcviček na E-Learningu **Téma 11**, kde jsou ukázkové příklady.
 
-* V testu se může objevit i otázka na operátor AND / OR / NAND / NOR: NOR -> Tabulka:
+* Na test si vemte sebou i VUT průkazy, budou kontrolovány!
 
-<p align="center">
-<img height="300px" src="https://it-slovnik.cz/img/pojmy/hradlo-nor-pravdivostni-tabulka.png">
-</p>
 
-* Přednost operátorů ... co má prioritní přednost při vykonání příkazů, viz skript cviceni 3 a prednaska.
-* Matice vs vektory, přístup k prvkům z pole a matice
-* **NeČtete** pořádně zadání! 
-* Chyba při mazání proměných z workspace pokud máme proměnou x a y, správně: clear x y vs špatně: clear xy - smaže proměnou xy
-* Pozor na proměnné a operace se němi, pokud máme proměnou x a y správně: x * y vs špatně: xy 
+### :heavy_exclamation_mark: E-Learningová otázka na funkce
 
-* V testu se objevují otázky na if else, to je co vám píše oficiální dokumentace v Matlab Help Center:
-
-  **Test Values for Inequality** - "Determine if a value is nonzero. Use the ~= operator to test for inequality."
-
-  Help Centrum: https://www.mathworks.com/help/matlab/ref/if.html
-
-  ```matlab
-  x = 10;
-  if x ~= 0
-      disp('Nonzero value')
-  end
-  
-  if ~x
-      disp('Nonzero value')
-  end
-  
-  if 6
-      disp('Nonzero value')
-  end
-  ```
-  
-* Pozor poté i na logické výpisy do command window >> logical 1 or logical 0 
+*  Otázka se Vás ptala na spránou odpověď ze 3 možných nabídek, zda-li soubor musí začínat jménem funkce, musí začínat slovem function popřípadě před definicí funkce mohou být různé příkazy. Ti co tuto otázku měli špatně a myslí si, že ji mají dobře, nechť mě kontaktují.
 
 ### :newspaper: Nástěnka 
 
 * Kdyby měl někdo zájem a rád by si rozšířil základní skills i do programovacího jazyka Python tak - [https://krython.vnovak.cz/](https://krython.vnovak.cz/)
-* Připomínám že v 5. týdnu bude již první ostrý test, ze kterého už budete sbírat body. Připravte se!!
-* Do 10. týdne všichni provést Matlab Onramp academy: https://www.mathworks.com/learn/tutorials/matlab-onramp.html
-* Pokud někdo nevyhnutelně bude jeden týden chybět při psaní e-Testů, je možno si ho nahradit ve 13. týdnu
+
+* Ve 13. týdnu od 8:00 se budou nahrazovat cvičení, budou spuštěny náhradní E-Learningový test za učivo celého semestru!
 
 ### :information_source: Info
 
