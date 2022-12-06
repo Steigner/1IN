@@ -8,7 +8,7 @@
 
 ## :heavy_exclamation_mark: Nahráda e-Testu
 
-* 13. týden v 8:00 - A4/714
+* 13 týden v 8:00 - A4/714
 
 ### Contacts:
 
