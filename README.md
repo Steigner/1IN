@@ -4,11 +4,11 @@
 
 * Opraveno všichni prošli tímto předmětem! :white_check_mark:
 
-* Klasifikace dle ECTS, bude zapsáno co nejdříve. 
+* :heavy_exclamation_mark: Cvičení ve 13. týdnu není!!!
 
 ## :heavy_exclamation_mark: Nahráda e-Testu
 
-* 13 týden v 8:00 - A4/714
+* 13 týden uterý v 8:00 - A4/714
 
 ### Contacts:
 
