@@ -1,6 +1,6 @@
 ## :computer: 1IN Course
 
-:white_check_mark:
+11.10 nultý cvičný test!! Ten, kdo se připraví a bude mít 100%, bude mít na konci semestru pro přilepšenou 1-2 body na lepší známku. 
 
 ### Contacts:
 
