@@ -4,6 +4,10 @@ MATLAB onramp e-learning kurz: https://www.mathworks.com/learn/tutorials/matlab-
 
 Odevzdáváte pdf certifikát. Termín do 10. týdne výuky.
 
+Taktéž připomínám, že máte možnost opravy / náhrady pouze jednoho e-testu na konci semestru. Test má otázky za celý semestr + něco navíc.
+
+Každý pátek se otvírají testy k revizi, aby jste se mohli podívat na chyby, které jste udělali.
+
 ### Contacts:
 
 Teams / Email - 200543@vutbr.cz
